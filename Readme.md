@@ -68,6 +68,7 @@ Python · FastAPI · Streamlit · LangChain · OpenAI API · SQLite · Plotly ·
 ## Screenshots
 
 _Add a screenshot or short GIF of the dashboard here._
+![alt text](image.png)
 
 ## License
 
